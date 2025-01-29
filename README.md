@@ -14,4 +14,4 @@ o	Hyperparametre:
 	Počet epoch: 10 pre všetky modely.
 4.	Tréning modelu: Každý model som natrénoval samostatne rovnaký počet epoch, aby som mohol porovnať ich výkon. Výsledky som sledoval vo forme zmien chyby a presnosti na trénovacej aj testovacej množine počas tréningu.
 5.	Porovnanie optimalizačných algoritmov: Na základe trénovacej a testovacej presnosti som určil, ktorý optimalizačný algoritmus je najlepší.
-![image](https://github.com/user-attachments/assets/a1d399c4-90c9-472a-8719-1f3293d602bb)
+
